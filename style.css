@@ -1,7 +1,7 @@
 
 h1 {
     font-size: 25px;
-    color: blue;
+    color: gold;
     font-weight: bold;   
   }
   h2 {
@@ -20,10 +20,30 @@ h1 {
   }
   p.c1 {
     font-weight: bold;
+    color:gold ;
   }
   
  
- a.link {
+ a {
     text-decoration: none;
     color: #8a2be2;
+    border-style: solid;
+    border-color: black;
  }
+ img{
+    width: 50vw ;
+  }
+
+ p{
+  border-style: solid;
+  border-color: black;
+}
+header{ background-position: center;
+  background-image: url(9814043b-6c4e-4671-a032-f8c5c7fb88ba.jpg);
+  align-items: center;
+  background-repeat: no-repeat;
+  
+   
+  
+}
+header{align-items: center;}
